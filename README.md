@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 'Niyi 'Laniyan</h1>
-<h3 align="center">Technical Consultant 👩🏿‍💻</h3>
+<h3 align="center">👩🏿‍💻Technical Consultant 👩🏿‍💻</h3>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 </div>
 💬 Ask me about **Salesforce Development**
 
-🏅 [4x Certified Salesforce Professional](https://trailblazer/neeyil)
+🏅 [4x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/neeyil)
 
 # ⚙ Salesforce Technologies
 
