@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 'Niyi 'Laniyan</h1>
-<h3 align="center">👩🏿‍💻Technical Consultant 👩🏿‍💻</h3>
+<h3 align="center">Technical Consultant 👩🏿‍💻</h3>
 
 <div align="center">
 
