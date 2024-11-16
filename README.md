@@ -8,7 +8,7 @@
 </div>
 💬 Ask me about **Salesforce Development**
 
-🏅 [4x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/neeyil)
+🏅 [7x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/neeyil)
 
 # ⚙ Salesforce Technologies
 
